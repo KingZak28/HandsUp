@@ -1,0 +1,25 @@
+{
+  "name": "handsup",
+  "version": "1.0.0",
+  "description": "An Alexa skill that will provide the user with a prayer based on their current emotion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingZak28/Hands-Up.git"
+  },
+  "author": "Zak H <zakariah28@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingZak28/Hands-Up/issues"
+  },
+  "homepage": "https://github.com/KingZak28/Hands-Up#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "ask-sdk": "^2.1.0",
+    "ask-sdk-v1adapter": "^2.1.0",
+    "aws-sdk": "^2.222.1"
+  }
+}

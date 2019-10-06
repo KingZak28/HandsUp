@@ -1,0 +1,57 @@
+{
+  "Welcome": "Welcome to hand's up! My name is Khadeeja and I can help you find an islamic prayer for any mood or feeling! Try asking me to find you a prayer for sadness or happiness.",
+  "Help":"I can help you find a prayer for any mood or feeling! Try asking me to find you a prayer for happiness.",
+  "PrayerResponse": "When feeling feelingSlot you can say, prayerSlot ",
+  "Exit":"In shaa allah. My friend, we will speak again soon. Take care, until next time! <audio src='soundbank://soundlibrary/human/amzn_sfx_human_walking_03'/>",
+  "PostPrayerSuffix":[
+    " If you'd like to continue, ask me for a prayer for a different feeling or you can tell me to stop.",
+    " If you're curious about a doo ah for another feeling let me know what it is! Or if that's all for today you can ask me to stop.",
+    " You can tell me to cancel and I can pack up and head home. Or an even better option is you can tell me another feeling I can find you a prayer for!",
+    " Let me know another feeling you'd like a prayer for! I love to share my knowledge! Or if that's all you can ask me to stop at any time.",
+    " If you're loving learning these prayers ask me for another one! Or if you've had enough you can ask me to stop.",
+    " I hope you're loving learning these prayers as much as I did. You can ask for more or tell me to stop.",
+    " You can ask me to stop if you've had enough.",
+    " Tell me how else you're feeling!",
+    " What other feelings would you like a prayer for."
+  ],
+  "FeelingSlotReprompt":[
+    "Which feeling are you looking for a prayer for?",
+    "Let me know which feeling you are looking for?",
+    "Tell me which emotion you are feeling",
+    "That didn't sound like a feeling to me, which feeling are you looking for?",
+    "Let me know which emotion you are looking for my friend."
+  ],
+  "Reprompts":[
+    "I'm sorry, I didn't hear you. ",
+    "My apologies, I didn't hear you. ",
+    "Do forgive me, I didn't hear you. ",
+    "I didn't quite catch that. ",
+    "I can tell you again. "
+  ],
+  "Repeat":[
+    "Sure, I can repeat. I said, ",
+    "I said, ",
+    "Sure thing my dear friend, I said, ",
+    "Anytime! I said, ",
+    "What I said was, "
+  ],
+  "FallbackPrefix":[
+    "I'm sorry, I didn't quite catch that.",
+    "I'm still learning so that didn't make a whole lot of sense to me. However, ",
+    "I'm sorry, I don't think I can help with that. But, ",
+    "That doesn't sound like a feeling to me. ",
+    "Apologies, I didn't quite understand that. "
+  ],
+  "ExitPrefix":[
+    "Oh wow, we are at the end of our time already? ",
+    "Time to go! ",
+    "I hope I was helpful. "
+  ],
+  "TroubleEncountered":[
+    "Sorry I had trouble understanding the feeling you were looking for. I hope I can be of more help next time. Take care!"
+  ],
+  "Unhandled":"I'm not sure about that one, but I can help you find a prayer for how you're feeling! So go ahead and let me know how you're feeling.",
+  "Fallback":[
+    "I can help you find a prayer for any mood or feeling. Do let me know how you're feeling!"
+  ]
+}
